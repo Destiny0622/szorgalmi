@@ -1,0 +1,2 @@
+# szorgalmi
+prog_szorgalmi
